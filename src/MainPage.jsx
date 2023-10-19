@@ -64,7 +64,7 @@ const MainPage = () => {
 </div>
  
  <div className="container">
-		 <a href="https://happybirthdaydude.netlify.app" style={{textDecoration:"none"}}><div class="text text-love" >&#9992;</div> </a>
+		 <a href="https://happy1-five.vercel.app/" style={{textDecoration:"none"}}><div class="text text-love" >&#9992;</div> </a>
          </div>
 	 
 
